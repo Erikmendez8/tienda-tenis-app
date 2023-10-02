@@ -1,0 +1,68 @@
+[
+    {
+        "id":1,
+        "nombre":"tenis nike",
+        "price":1800,
+        "img":"https://d3ugyf2ht6aenh.cloudfront.net/stores/001/966/867/products/0621-d3d8a8b3828d82389616714526591433-640-0.webp"
+    },
+    {
+        "id":2,
+        "nombre":"tenis nike",
+        "price":2000,
+        "img":"https://images.shafastatic.net/1193248934"
+    },
+    {
+        "id":3,
+        "nombre":"tenis nike",
+        "price":3200,
+        "img":"https://static.wixstatic.com/media/4a1f89_5adce5c6a9d64e2d81fa4baf8b3804c9~mv2.png/v1/fill/w_480,h_288,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/4a1f89_5adce5c6a9d64e2d81fa4baf8b3804c9~mv2.png"
+    },
+    {
+        "id":4,
+        "nombre":"tenis nike",
+        "price":4000,
+        "img":"https://sneakernews.com/wp-content/uploads/2012/12/halloween-release-nike-air-force-1-2006.jpg"
+    }
+    ,
+    {
+        "id":5,
+        "nombre":"tenis nike",
+        "price":4600,
+        "img":"https://cdn.shopify.com/s/files/1/0271/5579/1947/files/nike-dunk-low-esmeralda-25cm-sneakers-161.webp?v=1692767529&width=480"
+    }
+    ,
+    {
+        "id":6,
+        "nombre":"tenis nike",
+        "price":2540,
+        "img":"https://http2.mlstatic.com/D_NQ_NP_615880-MLM29164489324_012019-O.webp"
+    }
+    ,
+    {
+        "id":7,
+        "nombre":"tenis nike",
+        "price":3000,
+        "img":"https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/39a4a4fa-d8f5-4677-8057-aa8f9a49c469/calzado-de-running-en-carretera-structure-25-Zh2tPh.png"
+    }
+    ,
+    {
+        "id":8,
+        "nombre":"tenis nike",
+        "price":1500,
+        "img":"https://static.wixstatic.com/media/2ae1f6_d35493353b40441c9c2332ffa3f81be9~mv2.jpg/v1/fill/w_480,h_480,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/2ae1f6_d35493353b40441c9c2332ffa3f81be9~mv2.jpg"
+    }
+    ,
+    {
+        "id":9,
+        "nombre":"tenis nike",
+        "price":4000,
+        "img":"https://assets.adidas.com/images/w_600,f_auto,q_auto/8faf93e1573042b68b4caeb400f4ee50_9366/Tenis_Web_Boost_Dia_de_los_Muertos_Negro_GW7274_01_standard.jpg"
+    }
+    ,
+    {
+        "id":10,
+        "nombre":"tenis nike",
+        "price":5000,
+        "img":"https://http2.mlstatic.com/D_NQ_NP_758006-MLM51392207455_092022-O.webp"
+    }
+]
